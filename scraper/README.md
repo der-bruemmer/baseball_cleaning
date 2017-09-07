@@ -13,5 +13,5 @@ To scrape only the 1951 season teams, use sitemap\_51.json, otherwise use sitema
 
 After scraping has finished, you can export the data as CSV.
 
-Scraping takes 2.5 seconds for each player, so scraping all of them takes a long time.
+Be sure to set the scraper to a 5 second delay to not overload the website. Scraping then takes 5 seconds for each player, so scraping all of them takes a long time.
 
